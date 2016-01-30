@@ -1,6 +1,6 @@
 
-####The Open Source Definition Reading Reflection
+#####The Open Source Definition Reading Reflection
 It's great to know that the definiton for Open Source is much more than just an access to the source code. It's particularly interesting to me to see criterias like "No Discrimination Against Persons or Groups" and "License Must be Technology-Neutral". To me that shows that the Open Source Initiative is open for everyone and anyone and is really is a collaborative commitment that allows a lot of creative freedom. 
 
-####How to Ak Questions the Smart Way Reading Reflection
-This is a very relevant reading to me and my peers because when we are doing homework problems we usually go to the internet to seek answers. 
+#####How to Ak Questions the Smart Way Reading Reflection
+Even though I don't really post questions on any forum, chat, or group, this is still a very relevant reading to me and my peers because when we are doing homework problems we usually go to the internet to seek answers. This reading warns against the way we can ask questions sometimes and it's interesting to me that the things that this reading says to 'not do', are all over the internet. When search for answers, I would usually end up reading a similar question asked by someone in a forum, chat, or group and a lot of times the questions can be rather ambiguous and they're a lot like the examples given in the reading. 
