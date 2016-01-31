@@ -19,4 +19,17 @@ directory tree:
 ![screenshot from 2016-01-31 01 12 38](https://cloud.githubusercontent.com/assets/16448052/12699785/6a751faa-c7c0-11e5-9bc2-ed03ccaa1aa2.png)
 
 ####Regex
+Problem 2:
 
+
+![screenshot from 2016-01-31 01 58 00](https://cloud.githubusercontent.com/assets/16448052/12699798/2de3755e-c7c1-11e5-9cc7-5a794a650993.png)
+
+Problem 3:
+
+
+![screenshot from 2016-01-31 02 10 16](https://cloud.githubusercontent.com/assets/16448052/12699799/2f15fffa-c7c1-11e5-8ce4-b621a6cdbc56.png)
+
+Problem 4:
+
+
+![screenshot from 2016-01-31 02 12 12](https://cloud.githubusercontent.com/assets/16448052/12699800/30190802-c7c1-11e5-9d1a-f80277987801.png)
