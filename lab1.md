@@ -33,3 +33,24 @@ Problem 4:
 
 
 ![screenshot from 2016-01-31 02 12 12](https://cloud.githubusercontent.com/assets/16448052/12699800/30190802-c7c1-11e5-9d1a-f80277987801.png)
+
+Problem 5:
+
+
+![screenshot 16](https://cloud.githubusercontent.com/assets/16448052/12699868/bcf9e326-c79a-11e5-9eed-aa32192b80f7.png)
+
+Problem 6:
+
+
+![screenshot 17](https://cloud.githubusercontent.com/assets/16448052/12699869/bf548ab8-c79a-11e5-879d-56235c3f99e5.png)
+
+Problem 7:
+
+
+![screenshot 18](https://cloud.githubusercontent.com/assets/16448052/12699870/c172bcfc-c79a-11e5-899b-77074c811ae9.png)
+
+Problem 8:
+
+
+![screenshot 19](https://cloud.githubusercontent.com/assets/16448052/12699872/c3432efe-c79a-11e5-8fd2-32bba4bcdcaf.png)
+
