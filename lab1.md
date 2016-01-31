@@ -19,40 +19,13 @@ directory tree:
 ![screenshot from 2016-01-31 01 12 38](https://cloud.githubusercontent.com/assets/16448052/12699785/6a751faa-c7c0-11e5-9bc2-ed03ccaa1aa2.png)
 
 ####Regex
-Problem 2:
-
-
-![screenshot from 2016-01-31 01 58 00](https://cloud.githubusercontent.com/assets/16448052/12699798/2de3755e-c7c1-11e5-9cc7-5a794a650993.png)
-
-Problem 3:
-
-
-![screenshot from 2016-01-31 02 10 16](https://cloud.githubusercontent.com/assets/16448052/12699799/2f15fffa-c7c1-11e5-8ce4-b621a6cdbc56.png)
-
-Problem 4:
-
-
-![screenshot from 2016-01-31 02 12 12](https://cloud.githubusercontent.com/assets/16448052/12699800/30190802-c7c1-11e5-9d1a-f80277987801.png)
-
-Problem 5:
-
-
-![screenshot 16](https://cloud.githubusercontent.com/assets/16448052/12699868/bcf9e326-c79a-11e5-9eed-aa32192b80f7.png)
-
-Problem 6:
-
-
-![screenshot 17](https://cloud.githubusercontent.com/assets/16448052/12699869/bf548ab8-c79a-11e5-879d-56235c3f99e5.png)
-
-Problem 7:
-
-
-![screenshot 18](https://cloud.githubusercontent.com/assets/16448052/12699870/c172bcfc-c79a-11e5-899b-77074c811ae9.png)
-
-Problem 8:
-
-
-![screenshot 19](https://cloud.githubusercontent.com/assets/16448052/12699872/c3432efe-c79a-11e5-8fd2-32bba4bcdcaf.png)
+![problem2 2](https://cloud.githubusercontent.com/assets/16448052/12704052/47bad2ba-c820-11e5-968f-a2c8e26e3310.png)
+![problem3 2](https://cloud.githubusercontent.com/assets/16448052/12704053/4a4c2eac-c820-11e5-95cd-d63fb6c35323.png)
+![problem4 2](https://cloud.githubusercontent.com/assets/16448052/12704057/5032ca92-c820-11e5-8f07-ca274f7cda46.png)
+![problem5 2](https://cloud.githubusercontent.com/assets/16448052/12704058/5291f0e2-c820-11e5-8096-ccca753267de.png)
+![screenshot 35](https://cloud.githubusercontent.com/assets/16448052/12704059/55b2032a-c820-11e5-87a6-96901347241d.png)
+![screenshot 36](https://cloud.githubusercontent.com/assets/16448052/12704060/59cbbc80-c820-11e5-8c05-1443c861818c.png)
+![screenshot 37](https://cloud.githubusercontent.com/assets/16448052/12704061/5d91328c-c820-11e5-9b69-d149ddec42b7.png)
 
 #####Regex Crossword
 ![screenshot 26](https://cloud.githubusercontent.com/assets/16448052/12700013/bdaf8b90-c79f-11e5-9361-fffa389b3836.png)
