@@ -61,3 +61,8 @@ Problem 8:
 ![screenshot 29](https://cloud.githubusercontent.com/assets/16448052/12700017/c2ef2a98-c79f-11e5-92c9-919a3e537ee1.png)
 ![screenshot 30](https://cloud.githubusercontent.com/assets/16448052/12700018/c4f8c056-c79f-11e5-9e32-213c9273eb4b.png)
 
+###Blocky problem
+![screenshot 33](https://cloud.githubusercontent.com/assets/16448052/12700125/02f94c50-c7a4-11e5-9a95-7854f4e836aa.png)
+![screenshot 34](https://cloud.githubusercontent.com/assets/16448052/12700126/04b458e6-c7a4-11e5-83fe-897319080edb.png)
+
+
