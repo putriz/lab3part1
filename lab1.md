@@ -8,4 +8,9 @@ Even though I don't really post questions on any forum, chat, or group, this is 
 For answering questions in a helpful way, I think it's good to not assume that the person asking the question knows everything already. The answer should be explained as thoroughly and as destailed as possible. I also think it's to admit if you don't know an answer to a question and research about the question. Asking someone else who is more knowledgable is also helpful.
 
 ####Linux
+manual page of tree:
+![screenshot from 2016-01-31 01 06 11](https://cloud.githubusercontent.com/assets/16448052/12699783/641d1e5a-c7c0-11e5-845d-94fe88f358d6.png)
+
+directory tree:
+![screenshot from 2016-01-31 01 12 38](https://cloud.githubusercontent.com/assets/16448052/12699785/6a751faa-c7c0-11e5-9bc2-ed03ccaa1aa2.png)
 
