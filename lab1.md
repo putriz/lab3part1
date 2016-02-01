@@ -39,6 +39,6 @@ directory tree:
 ![screenshot 34](https://cloud.githubusercontent.com/assets/16448052/12700126/04b458e6-c7a4-11e5-83fe-897319080edb.png)
 
 ###g. Reflection
-At this point, I don't really have a specific idea yet for what I want to do for the project. However, me and my friend was talking about making something like StackOverflow for the RPI community. This could be a community for RPI students to ask questions about subjects that they are taking. I was also interested in the idea of making a fun Google Chrome extension, maybe that allows you to play a game in the middle of work for stress relieve or something. I will definitely start looking for things that might be interesting to create and talk about it with my friends more.
+At this point, I don't really have a specific idea yet for what I want to do for the project. However, me and my friend was talking about making something like StackOverflow for the RPI community. This could be a community for RPI students to ask questions about subjects that they are taking. I was also interested in the idea of making a fun Google Chrome extension, maybe that allows you to play a game in the middle of work for stress relieve or maybe one that allows you to show your school schedule when you're on the internet. I will definitely start looking for things that might be interesting to create and talk about it with my friends more.
 
 
