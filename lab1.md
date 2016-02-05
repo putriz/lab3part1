@@ -1,3 +1,6 @@
+####b. Bio Page
+![screenshot 42](https://cloud.githubusercontent.com/assets/16448052/12836561/2a101b06-cb88-11e5-9fed-2050dfeac9cb.png)
+
 ####c. Reading Reflection
 #####The Open Source Definition
 It's great to know that the definiton for Open Source is much more than just an access to the source code. It's particularly interesting to me to see criterias like "No Discrimination Against Persons or Groups" and "License Must be Technology-Neutral". To me that shows that the Open Source Initiative is open for everyone and anyone and is really is a collaborative commitment that allows a lot of creative freedom. This also will help me when I'm looking whether something is open source or not. I think I will now unconciously look for open source things whenever I'm on the web.
