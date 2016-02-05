@@ -1,15 +1,26 @@
-###2. Why is it important to choose a license?
+####2. Why is it important to choose a license?
 It is important to choose a license because it lets other people know for sure if a program is open source or not.
 Open-source is specifically defined and the license should make sure that the program is following all the conditions in order
 for it to be open-source. Having a license also makes it clear to people for what they can and cannot do.
 
-###3. Why they shouldn't use a project that doesn't have an explicit license
+####3. Why they shouldn't use a project that doesn't have an explicit license
 They shouldn't use an explicit license because if it doesn't have a license, it is technically all rights reserved.
 If a program is all rights reserved then no one can use the program, so there is a possibility that the user might get sued.
 
-###4. Failure to follow the Open System Model
+####4. Failure to follow the Open System Model
 I agree with the claim because I think the idea of open-source is so that people in the community could contribute to 
 the development of the program and Gopher was not 100% committed to the idea of that. They relied on themselves too much
-and decided what the "right thing' was instead of asking the community for contributions.
+and decided what the "right thing' was instead of asking the community for contributions. Gopher also did not allow the wider
+community to critically review the development process because they only released the informational Request for Comments publication, 
+but not the standards-track.
+
+####5. Why a license is chosen (Linux)
+Linux uses the GPL v2 license because the GPL requires that anyone who distributes software based on source code under this license, must make the originating source code (and any modifications) available to the recipient under the same terms. Linux did not choose v3
+because it would be impractical to obtain permission from all the copyright holders.
+
+####6. Pick a license for a project.
+
+####7. GPL, LGPL, Apache/BSD. Which one is better for a developer, a company, and the common good?
+
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
