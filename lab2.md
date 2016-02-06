@@ -19,6 +19,7 @@ Linux uses the GPL v2 license because the GPL requires that anyone who distribut
 because it would be impractical to obtain permission from all the copyright holders.
 
 ####6. Pick a license for a project.
+The project that we're picking a license for is our RCOS project SquareMeals. For this project, we're choosing the MIT license.
 
 ####7. GPL, LGPL, Apache/BSD. Which one is better for a developer, a company, and the common good?
 
