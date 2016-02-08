@@ -23,5 +23,14 @@ The project that we're picking a license for is our RCOS project SquareMeals. Fo
 
 ####7. GPL, LGPL, Apache/BSD. Which one is better for a developer, a company, and the common good?
 
+####8. Choose 5 projects from Observatory. 
+
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/tassiahmed/SplitScreen | Yes | Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+https://github.com/aosdict/yacs           | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
+https://github.com/Robmaister/SharpNav    | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
+https://github.com/bocaaust/CrowdCop      | Yes | Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+https://github.com/Behemyth/LifeSim       | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
