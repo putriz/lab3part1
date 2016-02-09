@@ -23,6 +23,14 @@ The project that we're picking a license for is our RCOS project SquareMeals. Fo
 
 ####7. GPL, LGPL, Apache/BSD. Which one is better for a developer, a company, and the common good?
 
+For the common good, I think Apache/BSD is better because it doesn't have a lot of restrictions and gives
+freedom for a lot of people to contribute while still giving credit to the original maker of the program.
+
+For a developer, I think LGPL is good because it is not as restrictive as the GPL which can give more freedom to 
+a developer who's still creating things. 
+
+For a company, I think GPL is better.
+
 ####8. Choose 5 projects from Observatory. 
 
 Website | License Present | License
