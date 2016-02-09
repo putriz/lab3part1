@@ -32,7 +32,7 @@ a developer who's still creating things.
 
 For a company, I think GPL is better.
 
-####8. Choose 5 projects from Observatory. 
+####9. Choose 5 projects from Observatory. 
 
 Website | License Present | License
 ---------|:----------|:-------
@@ -41,5 +41,8 @@ https://github.com/aosdict/yacs           | Yes | The MIT License (MIT) https://
 https://github.com/Robmaister/SharpNav    | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
 https://github.com/bocaaust/CrowdCop      | Yes | Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
 https://github.com/Behemyth/LifeSim       | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
+
+####10. Five sentences about choosing a project to work in this course and who will the users and the license that will be chosen.
+
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
